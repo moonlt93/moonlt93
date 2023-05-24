@@ -19,7 +19,6 @@
       <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlt93)](https://github.com/moonlt93/github-readme-stats)
 
 
 <!--
