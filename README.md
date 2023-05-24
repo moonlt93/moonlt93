@@ -10,11 +10,14 @@
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </span>
+<br/>
+
 ## 📍 used at least once 📍
+<span>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-
+</span>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlt93)](https://github.com/moonlt93/github-readme-stats)
 
