@@ -1,9 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20myProfile&fontSize=90" />
 
 ### Hi there 👋
-
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<span>
+<img src="https://img.shields.io/badge/java-3DDC84?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+</span>
 
 ![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
 <!--
