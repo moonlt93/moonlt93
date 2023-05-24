@@ -4,9 +4,10 @@
 ## Mun Jin Soo 😎  <br/> 
 
 
-<p> 대용량 트래픽을 핸들링 가능한 개발자가 되고 싶습니다..! <p>  </br>
+ <p> 대용량 트래픽을 핸들링 가능한 개발자를 지향합니다 <p>  </br>
  <p> git 주소: https://github.com/moonlt93 </p>  </br>
  <p> 블로그 주소: https://velog.io/@moonlt93 </p>  </br>
+ 
  </br>
 
 ![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
