@@ -1,16 +1,20 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20myProfile&fontSize=90" />
+## Mun Jin Soo  </br>
+
+![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
 
 ### Hi there 👋
 <span>
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </span>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonlt93)](https://github.com/moonlt93/github-readme-stats)
 
-![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
+
 <!--
 **moonlt93/moonlt93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
