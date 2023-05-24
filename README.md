@@ -24,7 +24,7 @@
 ## 📍 used at least once 📍
 <span>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </span>
 
