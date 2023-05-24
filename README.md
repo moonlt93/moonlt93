@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 
 ![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
 <!--
