@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome%20myProfile&fontSize=90" />
-# Mun Jin Soo  </br>
+# Mun Jin Soo  
+</br>
 
 ![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
 
 ### Hi there 👋
 <span>
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 </span>
 
