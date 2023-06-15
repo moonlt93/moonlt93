@@ -10,8 +10,6 @@
  
  </br>
 
-![moonlt93's github stats](https://github-readme-stats.vercel.app/api?username=moonlt93&show_icons=true&theme=radical)
-
 ## 📍 Skills 📍
 <span>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
