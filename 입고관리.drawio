@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T01:29:43.830Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="sOeulhn3ycy9nAeGZji3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T02:02:48.403Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="duT8xXEc5GDYDPLPOzV9" version="22.1.4" type="github">
   <diagram name="페이지-1" id="vxw-3wPIIXkFca2YIa6D">
-    <mxGraphModel>
+    <mxGraphModel dx="1826" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-1" value="입고관리" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="-534" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-387" width="635" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-3" value="OMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="-407" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-4" value="입고요청" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="-298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-5" value="반품입고" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="301" y="-298" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-6" value="회송입고" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="-295" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-7" value="도서정보" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="-194" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-134" y="-301" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="21" y="27" width="635" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-10" value="WMS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-28" y="7" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_Ek3tYQUCCtHzj6Dr8a-11" target="U_Ek3tYQUCCtHzj6Dr8a-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="21" y="104" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="41" y="109" />
+              <mxPoint x="41" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-11" value="입고예정" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="74" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-12" value="입고 검수&lt;br&gt;완료" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-13" value="빠레트 이동" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-14" value="파레트 라벨&amp;nbsp;&lt;br&gt;발행" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="96" y="154" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-19" value="검수 이력이 기록에 남아 있어야함.&amp;nbsp;&lt;br&gt;&lt;br&gt;ex) 출판사 주문 1만부 -&amp;gt;&lt;br&gt;제본소 제작시 9800부 -&amp;gt;&lt;br&gt;날개 검수시 9500부 등&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;입고 종류&amp;nbsp;&lt;br&gt;&lt;br&gt;1) 본사 입고&lt;br&gt;2) 드림날개 수거&amp;nbsp;&lt;br&gt;3) 직원 수거&amp;nbsp;&lt;br&gt;&lt;br&gt;반품도 있고 특수한 상황에서 입고되는 것들이 존재함&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;실물은 눈으로 확인하고&amp;nbsp;&lt;br&gt;이후 파레트 정보화&amp;nbsp;&lt;br&gt;&lt;br&gt;-&amp;gt;&amp;nbsp;&amp;nbsp;&lt;br&gt;입고 정보를 todo Else 할 것은 없나&amp;nbsp;&lt;br&gt;현장에서 입고정보를 확인 가능하도록 구현&lt;br&gt;&lt;br&gt;통집책&amp;nbsp;&lt;br&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-791" y="-259" width="428" height="428" as="geometry" />
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U_Ek3tYQUCCtHzj6Dr8a-12" target="U_Ek3tYQUCCtHzj6Dr8a-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="199" y="391" as="sourcePoint" />
+            <mxPoint x="665" y="339" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="156" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_Ek3tYQUCCtHzj6Dr8a-21" value="출판사에 정보 전달" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="311" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
