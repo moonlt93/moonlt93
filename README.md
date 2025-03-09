@@ -4,8 +4,8 @@
 ## Mun Jin Soo 😎  <br/> 
 
 
- <p> data 기반 유의미한 인사이트를 만드는 개발자를 지향합니다.  <p>  </br>
- <p> git 주소: https://github.com/moonlt93 </p>  </br>
+ <p> Data 기반 유의미한 인사이트를 만드는 개발자를 지향합니다.  <p>  </br>
+ <p> Git 주소: https://github.com/moonlt93 </p>  </br>
  <p> 블로그 주소: https://velog.io/@moonlt93 </p>  </br>
  
  </br>
@@ -19,7 +19,7 @@
 </span>
 <br/>
 
-## 📍 used at least once 📍
+## 📍 Used at Least Once 📍
 <span>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
       <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
