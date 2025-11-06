@@ -19,12 +19,6 @@
 </span>
 <br/>
 
-## 📍 Used at Least Once 📍
-<span>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-</span>
-
 
 
 <!--
