@@ -5,9 +5,6 @@
 
 
  <p> Data 기반 유의미한 인사이트를 만드는 개발자를 지향합니다.  <p>  </br>
- <p> Git 주소: https://github.com/moonlt93 </p>  </br>
- <p> 블로그 주소: https://velog.io/@moonlt93 </p>  </br>
- 
  </br>
 
 ## 📍 Skills 📍
