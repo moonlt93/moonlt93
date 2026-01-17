@@ -40,12 +40,6 @@ Milvus / Embedding / LangChain / LangGraph / Python
 
 ---
 
-## 📈 GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact)
-
----
-
 ## 🎯 Focus
 - 서비스 간 결합도를 낮추는 이벤트 중심 아키텍처 설계  
 - 데이터 정합성과 동시성 문제를 구조적으로 해결  
