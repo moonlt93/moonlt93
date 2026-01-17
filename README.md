@@ -1,11 +1,9 @@
 ## Backend Engineer Jinsu 👋
 
-<p align="left">
-
-I aim to be a data-driven engineer </br>
-who is not limited by any particular technology. </br>
-
-</p>
+<h3 align="center"><i>
+I aim to be a data-driven engineer<br/>
+who is not limited by any particular technology.
+</i></h3>
 
 
  ## ⚙ Tech Stack
