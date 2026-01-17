@@ -9,16 +9,14 @@
 
  ## ⚙ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-007396?logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot)
-![JPA](https://img.shields.io/badge/JPA-59666C?logo=hibernate)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka)
-![AWS ECS](https://img.shields.io/badge/AWS_ECS-FF9900?logo=amazon-ecs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
