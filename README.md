@@ -2,8 +2,9 @@
 
 <p align="left">
 
-기술에 종속적이지 않고 </br>
-데이터 기반 문제해결 역량을 갖춘 엔지니어를 지향합니다. </br>
+I aim to be a data-driven engineer </br>
+who is not limited by any particular technology. </br>
+
 </p>
 
 
